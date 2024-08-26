@@ -19,3 +19,25 @@ This is a simple, sleek To-Do List app with a dark theme. It allows users to add
    ```bash
    git clone https://github.com/AkshatSh-a/todo-list-app.git
    cd todo-list-app
+
+## How to Use
+
+### Adding a Task:
+- Input a task in the "Add Task" field.
+- Press the "Add" button or hit Enter to add the task to the list.
+
+### Marking a Task as Done:
+- Once you complete a task, click the checkbox next to it.
+- The task will animate into the trash bin, indicating that it has been completed.
+
+### Removing a Task:
+- To remove a task, simply mark it as done. The task will automatically disappear after animating into the trash bin.
+
+### Setting Recurring Tasks:
+- When adding a new task, you can choose a recurring interval (e.g., daily or weekly) so the task reappears after the selected period.
+
+### Dark Theme:
+- The app features a dark theme by default, offering a sleek and modern user experience.
+
+
+##ship link
